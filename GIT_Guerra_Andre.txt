@@ -1,7 +1,8 @@
 STYLE TILES
 
+https://github.com/ace2296/style_tiles/
 
-
+http://ace2296.github.io/style_tiles/
 
 
 FRAMEWORK
@@ -9,3 +10,5 @@ FRAMEWORK
 https://github.com/ace2296/framework
 
 http://ace2296.github.io/framework
+
+
